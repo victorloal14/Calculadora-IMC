@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="subtitles_weight">Weight</string>
+    <string name="subtitles_height">Height</string>
+    <string name="subtitles_age">Age</string>
+    <string name="subtitles_gender">Gender</string>
+    <string name="text_kg">Kg</string>
+    <string name="text_cm">cm</string>
+    <string name="text_years">Years</string>
+    <string name="text_male">M</string>
+    <string name="text_female">F</string>
+    <string name="text_calculate">Calculate</string>
+    <string name="text_accept">Accept</string>
+    <string name="subtitles_result">BMI</string>
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normal_weight">Normal weight</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obesity_type_1">Obesity Type 1</string>
+    <string name="category_obesity_type_2">Obesity Type 2</string>
+    <string name="category_obesity_type_3">Obesity Type 3</string>
+</resources>

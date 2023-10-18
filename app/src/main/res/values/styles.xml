@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="numberPickerTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/brown_1</item>
+        <item name="android:textColorPrimary">@color/green_2</item>
+        <item name="android:background">@color/white_2</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+
+    <style name="CardViewTheme" parent="Theme.AppCompat.Light">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="cardBackgroundColor">@color/white_2</item>
+        <item name="cardCornerRadius">35dp</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextSubtitlesTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/green_2</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="SeekBarTheme" parent="Theme.AppCompat.Light">
+        <item name="android:thumbTint">@color/brown_1</item>
+        <item name="android:progressTint">@color/green_2</item>
+    </style>
+
+
+    <style name="ButtonTheme" parent="Theme.AppCompat.Light">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/brown_1</item>
+        <item name="android:background">@drawable/round_button</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:drawableEnd">@mipmap/text_decorative_end</item>
+        <item name="android:drawableStart">@mipmap/text_decorative_start</item>
+        <item name="android:paddingStart">30dp</item>
+        <item name="android:paddingEnd">30dp</item>
+    </style>
+
+    <style name="ButtonTheme_2" parent="Theme.AppCompat.Light">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/brown_1</item>
+        <item name="android:background">@drawable/round_button_2</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+
+</resources>

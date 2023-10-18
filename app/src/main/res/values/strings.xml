@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="subtitles_weight">Peso</string>
+    <string name="subtitles_height">Altura</string>
+    <string name="subtitles_age">Edad</string>
+    <string name="subtitles_gender">Genero</string>
+    <string name="text_kg">Kg</string>
+    <string name="text_cm">cm</string>
+    <string name="text_years">Años</string>
+    <string name="text_male">M</string>
+    <string name="text_female">F</string>
+    <string name="text_calculate">Calcular</string>
+    <string name="text_accept">Aceptar</string>
+    <string name="subtitles_result">IMC</string>
+    <string name="category_underweight">Bajo peso</string>
+    <string name="category_normal_weight">Peso saludable</string>
+    <string name="category_overweight">Sobrepeso</string>
+    <string name="category_obesity_type_1">Obesidad tipo 1</string>
+    <string name="category_obesity_type_2">Obesidad tipo 2</string>
+    <string name="category_obesity_type_3">Obesidad tipo 3</string>
+
+
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
